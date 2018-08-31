@@ -1,4 +1,4 @@
-# First keras program.
+# First keras model.
 
 
 Just overkill 
