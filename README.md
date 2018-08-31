@@ -1,1 +1,1 @@
-# first_keras
+# First keras program.
