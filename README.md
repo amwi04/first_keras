@@ -1,4 +1,2 @@
-# First keras model.
+# keras.
 
-
-Just overkill 
